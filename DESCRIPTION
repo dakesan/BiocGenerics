@@ -5,7 +5,7 @@ Version: 0.35.4
 Author: The Bioconductor Dev Team
 Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
 biocViews: Infrastructure
-Depends: R (>= 4.0.0), methods, utils, graphics, stats, parallel
+Depends: R (>= 3.6.0), methods, utils, graphics, stats, parallel
 Imports: methods, utils, graphics, stats, parallel
 Suggests: Biobase, S4Vectors, IRanges, GenomicRanges, DelayedArray,
 	Biostrings, Rsamtools, AnnotationDbi, affy, affyPLM, DESeq2,
